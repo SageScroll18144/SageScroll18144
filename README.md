@@ -2,13 +2,9 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SageScroll18144=SageScroll18144)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SageScroll18144&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SageScroll18144&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true")
 
 <div>
-  <a href="https://github.com/SageScroll18144">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SageScroll18144&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SageScroll18144&layout=compact&langs_count=10&theme=midnight-purple"/>
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
