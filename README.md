@@ -24,4 +24,4 @@
 * [Solar System](https://github.com/SageScroll18144/Solar-System) Animação do sistema solar em Python 3.
  ##
  
-![Snake animation](https://github.com/SageScroll18144/SageScroll18144/github-user-contribution.svg)
+![Snake animation](https://github.com/SageScroll18144/SageScroll18144/blob/main/github-user-contribution.svg)
