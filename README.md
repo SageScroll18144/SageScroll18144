@@ -21,6 +21,7 @@
 * [Robot Rubiks](https://github.com/SageScroll18144/Robot_Rubiks) Robô para a resolução do cubo mágico.
 * [Solar System](https://github.com/SageScroll18144/Solar-System) Animação do sistema solar em Python 3.
 * [DecalBot](https://github.com/SageScroll18144/DecalBot) Uma I.A. que desenha.
+* [IF669-Game](https://github.com/SageScroll18144/IF669-Game) Um jogo com fases 2D e 3D em raylib.
  ##
  
 ![Snake animation](https://github.com/SageScroll18144/SageScroll18144/blob/main/github-user-contribution.svg)
