@@ -2,6 +2,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SageScroll18144=SageScroll18144)
 
+Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn/UFPE e adoro criar várias coisas divertidas! Aqui você poderá me conhecer melhor, mas não deixe de ver as linhas outras redes:
+
+- [Linkedin](https://www.linkedin.com/in/felipe-santos-15aa4624a/)
+- [Lattes](http://lattes.cnpq.br/3482951549554510)
+ 
 <div>
 <div style="display: inline_block"><br>
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
