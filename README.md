@@ -4,7 +4,7 @@
 
 Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn/UFPE e adoro criar várias coisas divertidas! Aqui você poderá me conhecer melhor, mas não deixe de ver as minhas outras redes:
 
-- [Linkedin](https://www.linkedin.com/in/felipe-santos-15aa4624a/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/felipe-santos-15aa4624a/)
 - [Lattes](http://lattes.cnpq.br/3482951549554510)
  
 <div>
@@ -30,5 +30,11 @@ Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn
 * [Hand-Paint](https://github.com/SageScroll18144/Hand-Paint) Aplicativo similar ao paint com a mão do usuário correspondendo ao cursor do programa.
 * [TicTacToe](https://github.com/SageScroll18144/TicTacToe) Website, Jogo da Velha PvP e PvM em Raylib.
  ##
+ 
+ <div align="center">
+  <a href="https://github.com/Mlcarvalho1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagescroll18144&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagescroll18144&layout=compact&langs_count=7&theme=dark"/>    
+</div>
  
 ![Snake animation](https://github.com/SageScroll18144/SageScroll18144/blob/main/github-user-contribution.svg)
