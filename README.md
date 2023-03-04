@@ -38,5 +38,8 @@ Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=sagescroll18144&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagescroll18144&layout=compact&langs_count=7&theme=dark"/>    
 </div>
+  
+  <img height="200em" src="[https://github-readme-stats.vercel.app/api/top-langs/???](https://github.com/SageScroll18144/SageScroll18144/blob/main/github-user-contribution.svg)&theme=dark"/>    
+</div>
  
 ![Snake animation](https://github.com/SageScroll18144/SageScroll18144/blob/main/github-user-contribution.svg)
