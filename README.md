@@ -5,6 +5,7 @@
 Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn/UFPE e adoro criar várias coisas divertidas! Aqui você poderá me conhecer melhor, mas não deixe de ver as minhas outras redes:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)] (https://www.linkedin.com/in/felipe-santos-15aa4624a/)
+
 - [Lattes](http://lattes.cnpq.br/3482951549554510)
  
 <div>
