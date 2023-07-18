@@ -33,4 +33,4 @@ Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn
 * [TicTacToe](https://github.com/SageScroll18144/TicTacToe) Website, Jogo da Velha PvP e PvM em Raylib.
  ##
  
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sagescroll18144&layout=donuts&theme=dark)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SageScroll18144&layout=donuts&theme=dark)
