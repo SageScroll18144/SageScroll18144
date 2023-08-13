@@ -31,6 +31,7 @@ Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn
 * [IF669-Game](https://github.com/SageScroll18144/IF669-Game) Um jogo com fases 2D e 3D em raylib.
 * [Hand-Paint](https://github.com/SageScroll18144/Hand-Paint) Aplicativo similar ao paint com a mão do usuário correspondendo ao cursor do programa.
 * [TicTacToe](https://github.com/SageScroll18144/TicTacToe) Website, Jogo da Velha PvP e PvM em Raylib.
+* [Hard Pong](https://github.com/Mend25/Projeto_IS). Um Pong PvM escrito em Assembly x86.
  ##
  
  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagescroll18144&layout=compact&langs_count=10&theme=dark"/>    
