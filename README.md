@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=SageScroll18144=SageScroll18144)
 
-Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn/UFPE, atualmente faço parte do laboratorio de inovação em cidades inteligentes - LIVE/CIn UFPE - sou cofundador da [bit-chess](https://github.com/bit-chess) e adoro criar várias coisas divertidas! Aqui você poderá me conhecer melhor, mas não deixe de ver as minhas outras redes:
+Olá! Me chamo Felipe Santos, sou estudante de Engenharia da Computação no CIn/UFPE, atualmente faço parte do laboratorio de inovação em cidades inteligentes - LIVE/CIn UFPE - sou cofundador da [Bit-Chess](https://github.com/bit-chess) e adoro criar várias coisas divertidas! Aqui você poderá me conhecer melhor, mas não deixe de ver as minhas outras redes:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-santos-15aa4624a/) 
